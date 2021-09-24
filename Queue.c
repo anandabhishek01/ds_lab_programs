@@ -63,7 +63,7 @@
        case 3: display();
                break;
        default:printf("invalid choice");
-               exit(0);
+          
       } 
     }
      
